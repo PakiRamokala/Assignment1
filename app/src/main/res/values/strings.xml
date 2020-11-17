@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="survey">Fill out Survey</string>
+    <string name="review">View Survey Results</string>
+    <string name="takeSurvey">take our survey</string>
+    <string name="personalDetails">Personal Details</string>
+    <string name="surname">Surname</string>
+    <string name="name">Full Names</string>
+    <string name="age">Age</string>
+    <string name="phone">Phone Number</string>
+    <string name="date">tap to select date today</string>
+    <string name="next">Continue</string>
+    <string name="food">what is your favourite food? (you can choose more than 1 answer)</string>
+    <string name="pizza">Pizza</string>
+    <string name="pasta">Pasta</string>
+    <string name="pap">Pap and Wors</string>
+    <string name="chicken">Chicken stir fry</string>
+    <string name="beef">Beef stir fry</string>
+    <string name="other">other</string>
+    <string name="noOfSurveys">Total number of surveys:</string>
+    <string name="average">Average age:</string>
+    <string name="oldest">Oldest person who participated in survey</string>
+    <string name="youngest">Youngest person who participated in survey</string>
+    <string name="likePizza">Percentage of people who like Pizza:</string>
+    <string name="likePasta">Percentage of people who like Pasta:</string>
+    <string name="likePap">Percentage of people who like Pap and Wors:</string>
+    <string name="eatOut">People like to eat out:</string>
+    <string name="movies">People like to watch movies:</string>
+    <string name="tv">People like to watch TV:</string>
+    <string name="radio">People like to listen to the radio:</string>
+    <string name="ok">OK</string>
+</resources>
